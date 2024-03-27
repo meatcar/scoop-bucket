@@ -22,6 +22,6 @@ wiki page.
 
 | Name | Description |
 | ---- | ----------- |
-| `iosevka-ss07` | Slender typeface for code, from code. SS07 version. |
+| [`iosevka-ss07`](https://typeof.net/Iosevka/customizer?ss-inherits=ss07&ligations=default-calt) | Slender typeface for code, from code. SS07 version (Monaco style). |
 
 
